@@ -118,10 +118,10 @@ local farmingButton = createButton("Execute Farming Script", UDim2.new(0, 20, 0,
 
 mainButton.MouseButton1Click:Connect(function()
     closeUI()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/EncryptedV998/Hawk-Hub-X/refs/heads/main/Muscle%20legend%20V2"))()
+loadstring(game:HttpGet("https://raw.loadstring(game:HttpGet("https://raw.githubusercontent.com/EncryptedV998/Quantum-Hub-X/refs/heads/main/Muscle%20legend%20V1"))()"))()
 end)
 
 farmingButton.MouseButton1Click:Connect(function()
     closeUI()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/EncryptedV998/Hawk-Hub-X/refs/heads/main/Muscle%20legend%20V3"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EncryptedV998/Quantum-Hub-X/refs/heads/main/Muscle%20legend%20V3"))()
 end)
